@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Bharat Savaliya!
 
-<!--
-**bharat6490/bharat6490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software engineer specializing in full-stack development, open-source contributions, and cloud computing.
+### 🚀 Frontend Developer | Front End | Back end | AWS | Cloud | Node.Js | Nest.Js | Express.js | Angular | Angular Developer | React Developer
+- 🎨 **Full Stack Developer | Front End | Back end | AWS | Cloud | Node.Js | Nest.Js | Express.js | Angular | Angular Developer | React Developer | React.Js | Javascript | TypeScript | MongoDB | SQL Server & Web Apps.**.
+- 🔥 *React.js,Node.JS, Nest.JS & Angular Enthusiast**, pushing the boundaries of dynamic and scalable web applications.
+- 🚀 Currently diving into the **Angular Node.js Nest.js React.js Redux & AWS ecosystem** to expand my expertise and build seamless, high-performance applications.
+- 💡 Constantly learning, experimenting, and refining my approach to modern web development.
+- 📫 Reach me at: [bharatsavaliya6@gmail.com](mailto:bharatsavaliya6@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 Let's Connect & Build Together:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-savaliya/)
